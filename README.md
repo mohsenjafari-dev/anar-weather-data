@@ -55,3 +55,18 @@ Chill calculations and cultivar-specific requirements are handled separately fro
 ## Project Status
 
 This repository is being actively developed as a small agricultural weather-data project. Its goal is to make weather data processing more accessible and reproducible for agricultural developers and researchers.
+
+## License and Data Attribution
+
+The original source code in this repository is licensed
+under the MIT License. See the LICENSE file.
+
+The ERA5-Land weather data are provided by the
+Copernicus Climate Change Service (C3S) and are subject
+to the applicable Copernicus data licence.
+
+Contains modified Copernicus Climate Change Service
+information 2026.
+
+Data source:
+https://cds.climate.copernicus.eu/
